@@ -1,0 +1,54 @@
+[
+
+  {
+    "name": "Spin-EKS-Cluster",
+    "desc": "It is a basic creation EKS Cluster Using Terraform",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Spin-EKS-.git"
+    }
+  },
+  {
+    "name": "Deploying-an-EKS-Cluster-with-Terraform",
+    "desc": "Deploying an EKS Cluster with Terraform and Deploying a BlogApp using custom Helm and Nginx Ingress Controller",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Deploying-an-EKS-Cluster-with-Terraform.git"
+    }
+  },
+  {
+    "name": "S3-Cross-Region-Replication",
+    "desc": "This is a Basic Region Replication",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/JasmithaCh/S3-Cross-Region-Replication.git"
+    }
+  },
+  {
+    "name": "AWS-CloudWatch-Alarm-for-EC2-Memory-Utilization-Monitoring",
+    "desc": "This is a AWS-CloudWatch-Alarm-for-EC2-Memory-Utilization-Monitoring",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/JasmithaCh/AWS-CloudWatch-Alarm-for-EC2-Memory-Utilization-Monitoring.git"
+    }
+  },
+  {
+    "name": "Stactic Web Hosting",
+    "desc": "This is a Static Web Hosting",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/JasmithaCh/Static-Website-Hosting-.git"
+    }
+  }
+
+]
